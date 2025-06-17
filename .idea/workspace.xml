@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0db94e74-e363-49ef-aaf2-d9d2fceaec19" name="Changes" comment="Face Recognition Algorithm implemented" />
+    <list default="true" id="0db94e74-e363-49ef-aaf2-d9d2fceaec19" name="Changes" comment="Face Recognition Algorithm implemented">
+      <change afterPath="$PROJECT_DIR$/submitted_faces/gonca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submitted_faces/mustafa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submitted_faces/efe1.png" beforeDir="false" afterPath="$PROJECT_DIR$/submitted_faces/efe.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -47,6 +54,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/submitted_faces" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -63,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750184236238</updated>
-      <workItem from="1750184237277" duration="641000" />
+      <workItem from="1750184237277" duration="3921000" />
     </task>
     <task id="LOCAL-00001" summary="Face Recognition Algorithm implemented">
       <option name="closed" value="true" />
@@ -81,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750184731377</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Face Recognition Algorithm implemented">
+      <option name="closed" value="true" />
+      <created>1750185062115</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750185062115</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +110,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Face Recognition Algorithm implemented" />
     <option name="LAST_COMMIT_MESSAGE" value="Face Recognition Algorithm implemented" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/face_recognition$main.coverage" NAME="main Coverage Results" MODIFIED="1750193185178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
